@@ -1,4 +1,4 @@
-package project.java.intensive.api.controller;
+package project.java.intensive.api.domain.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

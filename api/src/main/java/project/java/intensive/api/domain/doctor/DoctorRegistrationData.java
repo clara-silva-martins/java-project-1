@@ -1,11 +1,11 @@
-package project.java.intensive.api.doctor;
+package project.java.intensive.api.domain.doctor;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;
-import project.java.intensive.api.adress.AddressData;
+import project.java.intensive.api.domain.adress.AddressData;
 
 public record DoctorRegistrationData(
 

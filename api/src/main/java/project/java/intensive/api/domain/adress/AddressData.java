@@ -1,4 +1,4 @@
-package project.java.intensive.api.adress;
+package project.java.intensive.api.domain.adress;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;
