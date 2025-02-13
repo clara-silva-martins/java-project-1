@@ -11,7 +11,7 @@ Além disso, conta com um tratamento de erros robusto para melhorar a experiênc
 - **Spring JPA (Hibernate)**  
 - **Spring Security**  
 - **JSON Web Token (JWT)**  
-- **Banco de Dados Relacional (MySQL / PostgreSQL)**  
+- **Banco de Dados Relacional (MySQL)**  
 - **Maven**  
 
 ## 🔥 Funcionalidades
